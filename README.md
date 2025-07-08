@@ -1,3 +1,3 @@
-# Personal Projects
+# Frontend Projects from roadmap.sh's 'Frontend Developer Roadmap'
 
-Collection of data science projects for self-learning. 
+
