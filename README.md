@@ -1,3 +1,7 @@
-# Frontend Projects from roadmap.sh's 'Frontend Developer Roadmap'
+# Frontend Projects from roadmap.sh
+
+## Project List:
+
+1. [Single Page CV (HTML Only)](https://roadmap.sh/projects/basic-html-website)
 
 
