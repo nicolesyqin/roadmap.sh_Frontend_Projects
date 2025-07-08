@@ -2,6 +2,6 @@
 
 ## Project List:
 
-1. [Single Page CV (HTML Only)](https://roadmap.sh/projects/basic-html-website)
+1. [Single Page CV (HTML Only)](https://roadmap.sh/projects/single-page-cv)
 
 
